@@ -1,19 +1,3 @@
-# linset
-
-Linset Edited Version  by Fantome195. 
-
-Change : 
-
-[+] Add Index Files into Folder "scama"
-
-[+] Remove WPA SUPPLICANT check 
-
-
-
-Demonstration : 
-
-https://www.youtube.com/watch?v=1jib0jvmLgI
-
-LiNSET SCAMA COLLECTION : 
-
-http://www.hackshowblog.com/2015/02/linset-scama-collection.html
+Credits : script originally created by vk496 and tweaked by fantome195.
+Keywords: evil twin attack
+router: hg531v1 country : "ma", requirements: wifislax 64 1.1 (very important as it doesn't work on WS64 2.0)
