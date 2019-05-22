@@ -1,6 +1,6 @@
 Credits : script originally created by vk496 and tweaked by fantome195.
 
-Keywords: evil twin attack
+evil twin attack
 
 router: hg531v1 country : "ma" 
 
